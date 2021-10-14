@@ -20,12 +20,12 @@ After some quick attempts to reverse image search of the box, i went with trying
 
 Some of these images have stone walls that resemble the one in the picture a lot, so now to check out Edo Castle / Imperial Gardens in street view.
 
-Placing yourself anywhere on the roads just outside the castle you will see this.
+Placing yourself anywhere on the roads just outside the castle and gardens you will see this.
 
 ![](https://github.com/Bibben/digitaloverdose/blob/2bc85ba3688181a3ebc4ea89a66dac198f70b5f5/OSINT/Interestingstuff3.png)
 
 So now it was just about finding out on which side of the castle the image was taken.
-And some minutes later you will find **Chidorigafuchi Park** Which has several of these boxes and the correct one is located outside the **British Embassy**
+And some minutes later you will find **Chidorigafuchi Park** Which has several of these boxes and the correct one was photographed outside of the **British Embassy** in Tokyo
 
 ![](https://github.com/Bibben/digitaloverdose/blob/2bc85ba3688181a3ebc4ea89a66dac198f70b5f5/OSINT/Interestingstuff4.png)
 
