@@ -1,6 +1,6 @@
 This was the image we were given 
 
-![asdf](./challenge7.jpeg)
+![](./challenge7.jpeg)
 
 > Where was this photo taken from?    
 Answer `DO{...} (2 words)`
