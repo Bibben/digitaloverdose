@@ -1,5 +1,6 @@
 This was the image we were given. Answer `DO{...} (2 words)`
 
+image 1
 
 A couple of things to note:
 
