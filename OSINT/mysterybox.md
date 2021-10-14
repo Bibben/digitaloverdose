@@ -1,6 +1,6 @@
 This was the image we were given 
 
-![](./challenge7.jpeg)
+![](challenge7.png)
 
 > Where was this photo taken from?    
 Answer `DO{...} (2 words)`
