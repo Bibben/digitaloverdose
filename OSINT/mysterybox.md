@@ -1,8 +1,13 @@
-This was the image we were given. Answer `DO{...} (2 words)`
+This was the image we were given 
 
-image 1
+![asdf](./challenge7.jpeg)
+
+> Where was this photo taken from?    
+Answer `DO{...} (2 words)`
 
 A couple of things to note:
+
+image 1.5
 
 1. The Box itself in this context looked like to me to be somewhat too big to be an electrical facility and looked more like an over-engineered subway vent. But what it really is doesn't really matter as much, but it would be more likely to fit in a larger city, than a smaller village.
 2. The Wall in the background is rather long, maybe its old and famous.
