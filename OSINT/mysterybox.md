@@ -27,6 +27,6 @@ Placing yourself anywhere on the roads just outside the castle and gardens you w
 So now it was just about finding out on which side of the castle the image was taken.
 And some minutes later you will find **Chidorigafuchi Park** Which has several of these boxes and the correct one was photographed outside of the **British Embassy** in Tokyo
 
-![](https://github.com/Bibben/digitaloverdose/blob/2bc85ba3688181a3ebc4ea89a66dac198f70b5f5/OSINT/Interestingstuff4.png)
+![](https://github.com/Bibben/digitaloverdose/blob/348e414b8579bb57ca4263ae34d2dfe528607055/OSINT/Interestingstuff4.png)
 
 Flag `DO{British_Embassy}`
