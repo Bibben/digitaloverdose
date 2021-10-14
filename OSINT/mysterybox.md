@@ -10,7 +10,7 @@ A couple of things to note:
 ![](https://github.com/Bibben/digitaloverdose/blob/2bc85ba3688181a3ebc4ea89a66dac198f70b5f5/OSINT/Interestingstuff.jpg)
 
 1. The Box itself in this context looked like to me to be somewhat too big to be an electrical facility and looked more like an over-engineered subway vent. But what it really is doesn't really matter as much, but it would be more likely to fit in a larger city, than a smaller village.
-2. The Wall in the background is rather long, maybe its old and famous.
+2. The Wall in the background is rather long, probably very old and maybe somewhat famous.
 3. The Street lamp Design is rather distinct, so one might be able to discern if you are in the right area rather quickly.
 4. A bit meta, but the rest of the tasks so far was situated in Tokyo, so maybe this one is there too.
 
